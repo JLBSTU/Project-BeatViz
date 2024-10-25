@@ -1,13 +1,14 @@
 # Project-BeatViz (V1.0)
 
 ## General Information
-Music Visualiser Generator 
+Python Beat & Music Visualiser Generator 
 
 ## Project Status
 V1.0 - LOTS OF WORK REQUIRED!!
 
 ## Technologies 
 
+Python 3.10
 PyCharm CE 3.01
 Librosa 3.0
 PyGame 3.0

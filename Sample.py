@@ -8,7 +8,7 @@ def rnd_color():
     return [int(256 * i) for i in colorsys.hls_to_rgb(h, l, s)]
 
 
-filename = "nekozila.wav"
+filename = "track.wav"
 
 analyzer = AudioAnalyzer()
 analyzer.load(filename)

@@ -1,6 +1,6 @@
 # Project-BeatViz (As of V1.0)
 
-General Information
+## General Information
 Music Visualiser Generator 
 
 Technologies 
@@ -11,12 +11,14 @@ PyGame 3.0
 Processing
 
 
-Features
+## Features
 
 
 
 Screenshots
 Desired Output:
+
+
 ![image](https://github.com/user-attachments/assets/3bb9a1b7-db9b-4758-96b9-9b6f4522d759)
 
 

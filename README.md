@@ -1,4 +1,4 @@
-# Project-BeatViz (As of V1.0)
+# Project-BeatViz (V1.0)
 
 ## General Information
 Music Visualiser Generator 

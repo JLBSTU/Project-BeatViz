@@ -12,7 +12,6 @@ Python 3.10
 PyCharm CE 3.01
 Librosa 3.0
 PyGame 3.0
-Processing
 
 
 ## Features

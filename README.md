@@ -3,6 +3,9 @@
 ## General Information
 Music Visualiser Generator 
 
+## Project Status
+V1.0 - LOTS OF WORK REQUIRED!!
+
 ## Technologies 
 
 PyCharm CE 3.01
@@ -30,8 +33,7 @@ Run via personal Graphics Renderer & Processor - AV Experience to pair with your
 Function Utilising scope of house & hip-hop genres, however accessible by all songs. 
 Render data output through Librosa, framed through 80 points & Axis'
 
-## Project Status
-V1.0 - LOTS OF WORK REQUIRED!!
+## Runthrough & Demonstration 
 
 ## Room for Improvement
 Everything currently

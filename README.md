@@ -23,7 +23,7 @@ Each selects and optimisers for mp3 & wav file types
 
 
 ## Screenshots
-Desired Output:
+Version Output
 
 v1.0
 
@@ -41,6 +41,16 @@ v2.0
 
 
 v3.0
+
+
+
+<img width="995" alt="Screenshot 2024-11-06 at 1 16 15 pm" src="https://github.com/user-attachments/assets/55a358f9-cda2-4ca1-ab9f-70c5a529e5f0">
+
+
+
+
+
+
 
 ## Setup
 Main.py contains all

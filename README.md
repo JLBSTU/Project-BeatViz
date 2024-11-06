@@ -25,22 +25,26 @@ Each selects and optimisers for mp3 & wav file types
 ## Screenshots
 Version Output
 
-v1.0
+v1.0 - Buttons & Interface
+
+
+<img width="799" alt="Screenshot 2024-11-06 at 1 25 49 pm" src="https://github.com/user-attachments/assets/a9605565-13c4-4b4d-ae07-9da889c7279c">
 
 
 
 
 
 
-
-v2.0
-
+v2.0 - Spectogram
 
 
+<img width="466" alt="Screenshot 2024-11-06 at 1 21 55 pm" src="https://github.com/user-attachments/assets/3397fe7d-6b6d-4af6-9c11-c3c594bd696d">
 
 
 
-v3.0
+
+
+v3.0 - Oscillograph
 
 
 

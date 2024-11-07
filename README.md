@@ -38,7 +38,8 @@ v1.0 - Buttons & Interface
 v2.0 - Spectogram
 
 
-<img width="466" alt="Screenshot 2024-11-06 at 1 21 55 pm" src="https://github.com/user-attachments/assets/3397fe7d-6b6d-4af6-9c11-c3c594bd696d">
+
+![YO](https://github.com/user-attachments/assets/64f467ac-318f-4009-ae2e-9a79c7351285)
 
 
 

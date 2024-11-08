@@ -7,7 +7,7 @@ Python Beat & Music Visualiser Generator
 V3.0 - Prototype Successfully Created!
 
 ## IDE
-Pycharm, Spyder & Replit (Highly Recommended - fork via this url: https://replit.com/@jlbyt07/Project-Beatviz-30#main.py
+Pycharm, Spyder & Replit (Highly Recommended - fork via this url: https://replit.com/@jlbyt07/Project-Beatviz-30#main.py) - Last Updated 5 Nov
 
 ## Libraries / Technologies
 

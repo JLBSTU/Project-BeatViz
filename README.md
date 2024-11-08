@@ -7,19 +7,22 @@ Python Beat & Music Visualiser Generator
 V3.0 - Prototype Successfully Created!
 
 ## IDE
-Pycharm, Spyder & Replit
+Pycharm, Spyder & Replit (Highly Recommended - fork via this url: https://replit.com/@jlbyt07/Project-Beatviz-30#main.py
 
 ## Libraries / Technologies
 
-Python 3.10
-PyCharm CE 3.01
-Librosa 3.0
-PyGame 3.0
+Python 3.13
+PyCharm CE 3.01; Replit
+PyGame 2.6.0, MatPlotLib 3.9.2, Numpy 3.13, Tkinter 8.6.14, Pydub 0.25.1.1, PIL 1.1.7
+
+
 
 
 ## Features
 Choose File & Play Example Function
 Each selects and optimisers for mp3 & wav file types
+
+Outputs Oscillogram Function on Bar to Bar Peaks and Troughs
 
 
 ## Screenshots
@@ -59,12 +62,12 @@ v3.0 - Oscillograph
 
 ## Setup
 Main.py contains all
-Assets Include: 'Beatviz.png' (Logo), 'R&B Example.wav' (Example Track
+Assets Include: 'Beatviz.png' (Logo), 'R&B Example.wav' (Example Track)
 
 ## Usage
 Run via personal Graphics Renderer & Processor - AV Experience to pair with your favourite tracks data :)
 Function Utilising scope of house & hip-hop genres, however accessible by all songs. 
-Render data output through Librosa, framed through 80 points & Axis'
+Render data output through Tkinter Screen & MatPlotLib Graphics, framed through 80 points & Axis'
 
 ## Runthrough & Demonstration 
 
